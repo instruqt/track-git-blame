@@ -6,4 +6,4 @@ variable_1 = int(sys.argv[1])
 variable_2 = int(sys.argv[2])
 
 #print the product
-print(variable_1 + variable_2)
+print(variable_1 * variable_2)
